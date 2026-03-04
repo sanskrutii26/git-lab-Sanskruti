@@ -1,0 +1,5 @@
+Second line in my file
+Third line in my file
+hello this is my new line
+this is my new line
+this is my next line
