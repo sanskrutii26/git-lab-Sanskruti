@@ -1,3 +1,4 @@
 Second line in my file
 Third line in my file
 forth line in my file
+fifth line in my file
