@@ -3,3 +3,4 @@ Third line in my file
 forth line in my file
 fifth line in my file
 topic of the day -branching and merging
+adding line to my file from feature branch
