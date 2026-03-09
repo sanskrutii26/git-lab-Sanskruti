@@ -1,6 +1,6 @@
 Second line in my file
-Third line in my file
-forth line in my file
+Third line in my file  welcome to git
+forth line in my file welcome to git
 fifth line in my file
 topic of the day -branching and merging
 adding line to my file from feature branch
